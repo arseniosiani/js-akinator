@@ -1,0 +1,19 @@
+{
+  "name": "js-akinator",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "https://github.com/arseniosiani/js-akinator",
+  "author": "Arsenio Siani <arsenio.siani@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ml-cart": "^2.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.24.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.1.0",
+    "ml-dataset-iris": "^1.1.1"
+  }
+}
