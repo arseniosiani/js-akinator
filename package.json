@@ -6,7 +6,9 @@
   "author": "Arsenio Siani <arsenio.siani@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "ml-cart": "^2.1.0"
+    "ml-cart": "^2.1.0",
+    "prompt": "^1.1.0",
+    "prompt-confirm": "^2.0.4"
   },
   "devDependencies": {
     "eslint": "^7.32.0",
